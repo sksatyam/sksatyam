@@ -9,3 +9,8 @@
 - 📫 How to reach me: thesksatyam@gmail.com
 - ⚡ Fun fact: I love Anime
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sksatyam/sksatyam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sksatyam/sksatyam/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
