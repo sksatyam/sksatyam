@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Kotlin.
 - 💬 Ask me about Python, Java, C, Networking.
 - 📫 How to reach me: thesksatyam@gmail.com
-- ⚡ Fun fact: I Love Anime.
+- ⚡ Fun fact: I Love Anime .
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sksatyam/sksatyam/output/github-contribution-grid-snake-dark.svg" />
