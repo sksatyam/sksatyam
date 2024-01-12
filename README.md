@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thesksatyam@gmail.com**
 
-- ⚡ Fun fact I Love Anime**.
+- ⚡ Fun fact I Love **Anime**.
 
 
 <picture>
