@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Kotlin**.
 
-- 🌱 I’m currently Learning learning **Android Development & DSA**.
+- 🌱 I’m currently learning **Android Development & DSA**.
 
 - 👯 I’m looking to collaborate on **Opensource OS Development**.
 
