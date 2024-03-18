@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksatyam&label=Profile%20views&color=0e75b6&style=flat" alt="sksatyam" /> </p>
 
-- 🔭 I’m currently working on **Kotlin**.
+- 🔭 I’m Currently Working on **Kotlin**.
 
-- 🌱 I’m currently learning **Android Development & DSA**.
+- 🌱 I’m Currently Learning **Android Development & DSA**.
 
-- 👯 I’m looking to collaborate on **Opensource OS Development**.
+- 👯 I’m Looking to Collaborate on **Opensource OS Development**.
 
-- 🤝 I’m looking for help with **Kotlin**.
+- 🤝 I’m Looking For Help With **Kotlin**.
 
-- 💬 Ask me about **Python, Java, C, Networking**.
+- 💬 Ask Me About **Python, Java, C, Networking**.
 
-- 📫 How to reach me **thesksatyam@gmail.com**
+- 📫 How to Reach Me **thesksatyam@gmail.com**
 
-- ⚡ Fun fact I Love **Anime**.
+- ⚡ Fun Fact I Love **Anime**.
 
 
 <picture>
