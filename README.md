@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksatyam&label=Profile%20views&color=0e75b6&style=flat" alt="sksatyam" /> </p>
 
-- 🔭 I’m Currently Working on **Kotlin**.
 
 - 🌱 I’m Currently Learning **Android Development & DSA**.
 
